@@ -33,6 +33,7 @@ DUE SATURDAY, AUGUST 8th
 The focus of the second week on this project will be the integration of MVC patterns into your existing bookstore service. Technologies learned will include Struts and Spring, but your project may use any technology you would like to create the interface between data and users. Objectives include:
 
 1) cohesive mapping of database using Object-Relational Database mapping
+
 2) implementation of MVC design patterns to allow users to interact with the existing service
 
 
@@ -42,5 +43,7 @@ DUE SATURDAY, AUGUST 15th
 To further explore security and logging, your final set of objectives will be tied to the completion of a shopping cart that will allow certain users to purchase and interact with books while protecting the information held in the database about those books. Objectives include:
 
 1) implementation of user authorization and user profiles
+
 2) design and implementation of shopping cart functionality, designed according to robust security design patterns
+
 3) refactor existing code according to additional design patterns
