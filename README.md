@@ -15,6 +15,7 @@ The focus for the first week should be on database creation and a Data Access La
   + Unique # IDs for each book (like ISBNs)
   + Book Titles
   + Author Names (first and last)
+  + Cover Image URL (It's OK to link some book cover images available online)
   + Year of Book Publishing
   + Book genre/category
   + Brief Book Description
